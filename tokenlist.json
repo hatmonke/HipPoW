@@ -17,9 +17,9 @@
     },
     {
       "chainId": 10001,
-      "address": "0x80E34c9873fE0b9bCa07832C769aa3CacC6BBdCf",
-      "name": "HipPoW Token",
-      "symbol": "HPOW",
+      "address": "0x08AF02e0A2Ff52f26534c96bFba3aA1F38b26865",
+      "name": "HipPoWSwap Token",
+      "symbol": "HSWAP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/hatmonke/HipPoW/main/tokens/logo.png"
     }
