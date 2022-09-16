@@ -1,0 +1,32 @@
+{
+  "name": "HipPoW List",
+  "logoURI": "https://raw.githubusercontent.com/hatmonke/HipPoW/main/tokens/logo.png",
+  "keywords": [
+    "HipPoW",
+    "ETHW"
+  ],
+  "timestamp": "2022-09-1614:52:04+00:00",
+  "tokens": [
+    {
+      "chainId": 10001,
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped ETHW",
+      "symbol": "WETHW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hatmonke/HipPoW/main/tokens/ethereum.png"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x80E34c9873fE0b9bCa07832C769aa3CacC6BBdCf",
+      "name": "HipPoW Token",
+      "symbol": "HPOW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/hatmonke/HipPoW/main/tokens/logo.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
