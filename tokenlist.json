@@ -22,11 +22,43 @@
       "symbol": "HSWAP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/hatmonke/HipPoW/main/tokens/logo.png"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x11bbB41B3E8baf7f75773DB7428d5AcEe25FEC75",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://imgur.com/a/fXdFnQ4"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x8A496486f4c7CB840555Bc2Be327CBA1447027C3",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://imgur.com/xj9GKq5"
+    },
+    {
+      "chainId": 10001,
+      "address": "0x5df101F56ea643e06066392d266e9f4366b9186d",
+      "name": "WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://imgur.com/ykJNaOS"
+    },
+    {
+      "chainId": 10001,
+      "address": "0xaf3ccfD9B59b36628cC2F659a09d6440795B2520",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://imgur.com/tvw5TQX"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
